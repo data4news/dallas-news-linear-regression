@@ -8,7 +8,7 @@ Some schools in Texas scored suspiciously well on some of their standardized tes
 
 - `scratchpad.ipynb` - this is your starting point
 - `notebook.ipynb` - a copy of scratchpad that you will actually submit
-- `notebook-with-answers.ipynb` - contains a walkthrough of what Dallas Morning News actually did
+- `notebook-with-walkthrough.ipynb` - contains a walkthrough of what Dallas Morning News actually did
 
 ### Reference
 
