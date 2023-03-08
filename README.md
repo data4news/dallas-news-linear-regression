@@ -1,4 +1,4 @@
-# regressions-case-study-dmn
+# dallas-news-linear-regression
 
 Adapted from investigate.ai
 https://investigate.ai/dmn-texas-school-cheating/
