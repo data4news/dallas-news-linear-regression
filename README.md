@@ -8,7 +8,7 @@ Some schools in Texas scored suspiciously well on some of their standardized tes
 
 - `scratchpad.ipynb` - this is your starting point
 - `notebook.ipynb` - a copy of scratchpad that you will actually submit
-- `notebook-with-walkthrough.ipynb` - contains a walkthrough of what Dallas Morning News actually did
+- `notebook-with-soma-walkthrough.ipynb` - contains Soma's walkthrough of what Dallas Morning News actually did (⚠️ warning: this may use Python instead of R for the linear regressions. The code may be unfamiliar but you can read the thought process if you're confused about the assignment). 
 
 ### Reference
 
