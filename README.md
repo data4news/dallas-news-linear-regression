@@ -13,4 +13,4 @@ The Dallas Morning News is on the case!
 ### Reference
 
 Data Documentation: 
-https://tea.texas.gov/student-assessment/testing/taks-resources/taks-variables-formats-and-descriptions
+https://web.archive.org/web/20221001050213/https://tea.texas.gov/student-assessment/testing/taks-resources/taks-variables-formats-and-descriptions
